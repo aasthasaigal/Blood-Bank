@@ -1,0 +1,115 @@
+body
+{
+    margin-top:0px;
+    background-color:bisque;
+}
+
+button
+{
+    
+    font-size:15px;
+    font-family:'Times New Roman', Times, serif;
+    
+}
+
+footer
+{
+    background-color:#404040;
+    height:150px;
+    color: white;
+}
+
+#login,#category,#bloodtype,#register
+{
+    text-align: center;
+    margin: 50px;
+}
+
+#navigate
+{   
+    padding:40px;
+    text-align:right;  
+    height:50px;
+}
+
+#welcome
+{
+    text-align:center;
+    font-size: 40px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;   
+    margin:20px; 
+    color: black;
+}
+
+#a
+{
+    float:left;
+    height:120px;
+    width:120px;
+}
+
+#b
+{
+    text-align:center;
+}
+
+#contact
+{
+    text-align:right;
+}
+
+#loginform,#registerform
+{
+    background-color:lightgray;
+    border: solid;
+    border-width: 1;
+    border-radius: 10px;
+    width: 50%;
+    margin-left: 280px;
+}
+
+.sign
+{
+    padding-right:50px;
+}
+
+.float
+{
+    width: 50%;
+    float: left;
+    padding: 20px;    
+}  
+
+.know
+{
+    text-align:center;
+}
+
+.link
+{
+    color: white;
+}
+
+.navlink
+{
+    color: black;
+}
+
+.link:hover,.navlink:hover
+{
+    color:#708090;
+}
+
+.press
+{
+    color: black;
+    background-color: white;
+    border-radius: 5px;
+    border-width: 1;
+}
+
+.press:hover
+{
+    background-color: red;
+    color: white;
+}
